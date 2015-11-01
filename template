@@ -1,6 +1,0 @@
-#include "unpthread.h"
-
-int main(){
-
-return 0;
-}
